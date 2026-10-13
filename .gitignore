@@ -1,0 +1,8 @@
+# datos y archivos temporales (NO se suben al repo)
+datos/
+origen/
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
+.env

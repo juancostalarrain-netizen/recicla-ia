@@ -1,0 +1,7 @@
+# Tema de la app (colores acordes a reciclaje)
+[theme]
+primaryColor = "#2e7d32"
+backgroundColor = "#0e1117"
+secondaryBackgroundColor = "#14281d"
+textColor = "#e8eaf0"
+font = "sans serif"

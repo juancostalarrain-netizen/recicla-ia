@@ -1,0 +1,12 @@
+{
+  "arquitectura": "efficientnet_b0",
+  "clases": [
+    "carton",
+    "metal",
+    "papel",
+    "plastico",
+    "resto",
+    "vidrio"
+  ],
+  "accuracy_prueba": 0.7885
+}

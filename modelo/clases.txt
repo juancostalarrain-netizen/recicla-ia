@@ -1,0 +1,6 @@
+carton
+metal
+papel
+plastico
+resto
+vidrio
